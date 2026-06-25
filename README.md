@@ -18,3 +18,21 @@ terms of use for electricity market data.
 
 Place both files in this `/data` folder and update the file paths
 in Cell 3 of the notebook before running.
+
+## About This Project
+
+This was a major consulting project completed as part of my Master of 
+Business Analytics at Macquarie Business School (BUSA8031, 2026).
+
+Our team acted as consultants hired by an energy company to analyse 
+what happens to NSW electricity prices and costs when large numbers of 
+data centres are built across the state.
+
+I was responsible for:
+- Task 2 — building the price-impact regression model
+- Task 4 — simulating and comparing all four procurement strategies
+- NPV, Cash Flow at Risk, and payback analysis
+- Forward cost projections from 2025 to 2030
+
+All analysis was done in Python using real AEMO electricity market data
+covering 315,646 five-minute intervals across FY2022–FY2024.
